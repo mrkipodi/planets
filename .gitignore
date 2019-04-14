@@ -1,3 +1,4 @@
 log_*
+!log_01
 *.dat
 results/
